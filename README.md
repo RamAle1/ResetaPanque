@@ -7,5 +7,11 @@ vamos a crear nuestro archivo
 #vamos anñadir nuevos partisipantes 
 ing z
 ing Alberto
-ing Vera
+
 #hola
+
+#hola mundo
+modificado
+
+#modificado de nuevo
+1
