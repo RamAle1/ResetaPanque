@@ -15,3 +15,5 @@ modificado
 
 #modificado de nuevo
 1
+#colicion 
+para README.md
